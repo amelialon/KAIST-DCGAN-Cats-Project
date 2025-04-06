@@ -1,6 +1,6 @@
 # DCGANs for Cat Image Generation
 
-This repository contains the implementation of a Deep Convolutional Generative Adversarial Network (DCGAN) for generating realistic cat images. This project was conducted as part of an individual research project at KAIST.
+This repository contains the implementation of a Deep Convolutional Generative Adversarial Network (DCGAN) for generating realistic cat images. This project was conducted as part of an individual research project at KAIST. The link to accessing the notebook is https://colab.research.google.com/drive/1rXnMAYlmY6gmqJCQ8JDWoR9QLy4Tr3oR?usp=sharing as GitHub forbids the upload of large sized files.
 
 ## Project Overview
 The objective of this project was to explore generative adversarial networks (GANs) and their application to image synthesis. Using the DCGAN architecture, the model was trained on a dataset of cat images to generate new, realistic cat images.
